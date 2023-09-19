@@ -19,16 +19,14 @@ Este projeto é estenção de ferramentas internas para a empresa Corp Genius, h
 ## 🔧 Tools
 
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [SASS](https://sass-lang.com/)
 - [PHP](https://www.php.net/)
 
 <br>
 
 ## 📸 More Images
 
-<img src="imgs/accets/Mockup-login.png">
-<img src="imgs/accets/Mockup-home.png">
-<img src="imgs/accets/Mockup-chamados.png">
-<img src="imgs/accets/Mockup-funcionarios.png">
+<img src="imgs/accets/MockupReadMe.png">
 
 <br>
 
