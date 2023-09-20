@@ -54,4 +54,4 @@ Este projeto é estenção de ferramentas internas para a empresa Corp Genius, h
 ```
 
 ## 📃 License
-This project is under the MIT license. See the file [LICENSE](https://github.com/Ester-Farias/Portfolio-fotografo-rafael-silva/blob/master/LICENSE) for more details.
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
