@@ -1,0 +1,63 @@
+@media (max-width: 600px) {
+    
+.card-meus-chamados{
+    width: 300px;
+   margin: 0;
+}
+}
+.card-meus-chamados{
+    border: 0px;
+    border-radius: 15px;
+    background-color:#FFFF;
+    color: black;
+    margin: 5px;
+    position: relative;
+    height: 300px;
+}
+.card-meus-chamados p{
+    font-size: 15px;
+}
+.card-meus-chamados h5{
+    font-size: 18px;
+}
+#dashboard .foto-funcionarios {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+}
+.line-card-meus-chamados{
+  position: absolute;
+  width: 100%;
+  background: black;
+  height: 1px;
+  margin-top: 5px;
+  padding: 0;
+}
+#dashboard .card-meus-chamados .p-cargo-funcionarios{
+    color: #56524B;
+    font-size: 14px;
+}
+.about-funcionarios{
+    margin: 0;
+    padding: 0;
+    height: 145px;
+}
+.gmail .icon-button-secundario{
+    height: 20px;
+    width: 25px;
+    font-size: 14px;
+    background-color:black;
+    color:  #FFFF;
+}
+.gmail{
+    height: 22px;
+    display: flex;
+}
+.gmail p{
+    color: #56524B;
+    font-size: 14px;
+}
+.content-gmail p{
+    font-size: 13px;
+    color: #56524B;
+}
