@@ -14,7 +14,11 @@
     <link rel="stylesheet" href="scss/media/mediaquerie.css">
     <link rel="stylesheet" href="scss/style.css">
     <link rel="stylesheet" href="scss/navbar/navbar.css">
+<<<<<<< HEAD
     <link rel="stylesheet" href="scss/menu-conta/menu-conta.css">
+=======
+    <link rel="stylesheet" href="scss/menu-conta/menu-conta-home.css">
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
     <link rel="stylesheet" href="scss/dashboard/home/home.css">
     <link rel="stylesheet" href="scss/dashboard/footer/footer.css">
     <title>Corp Genius</title>
@@ -122,7 +126,11 @@
                     </div>
                     <div class="hero d-flex justify-content-center m-0 p-0">
                         <div class="d-block text-center">
+<<<<<<< HEAD
                             <h6 class="m-0 p-0"><?php echo $_SESSION['id']; ?></h6>
+=======
+                            <h6 class="m-0 p-0">Jacobet Terrie</h6>
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
                             <p class="m-0 p-0">Estágiario</p>
                         </div>
                         
@@ -137,12 +145,20 @@
                                 <div class="content-menu-conta-line-1"></div>
                                 <div class="col d-flex p-2 col-item">
                                     <div class="icon-button-primario me-2"><i class="fa-regular fa-envelope"></i></div>
+<<<<<<< HEAD
                                    <p class="p-align-center">estagiario.corp@genius.com</p>
+=======
+                                   <p class="p-align-center"> estagiario.corp@genius.com</p>
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
                                 </div>
                                 <div class="content-menu-conta-line-2"></div>
                                 <div class="col d-flex p-2 m-0 p-0">
                                     <div class="icon-button-primario me-2 mb-0 pb-0"><i class="pb-0 mb-0 fa-solid fa-phone"></i></div>
+<<<<<<< HEAD
                                      <p class="p-align-center">72 9 154873</p>
+=======
+                                     <p class="p-align-center">(12) 3 4567 - 8910</p>
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
                                 </div>
                             </div>
                 </main>

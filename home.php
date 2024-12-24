@@ -15,7 +15,11 @@
     <link rel="stylesheet" href="scss/media/mediaquerie.css">
     <link rel="stylesheet" href="scss/style.css">
     <link rel="stylesheet" href="scss/navbar/navbar.css">
+<<<<<<< HEAD
     <link rel="stylesheet" href="scss/menu-conta/menu-conta.css">
+=======
+    <link rel="stylesheet" href="scss/menu-conta/menu-conta-home.css">
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
     <link rel="stylesheet" href="scss/dashboard/home/home.css">
     <link rel="stylesheet" href="scss/dashboard/footer/footer.css">
     <title>Corp Genius</title>
@@ -154,7 +158,11 @@
         
     </div><!-- Fim do container -->
 
+<<<<<<< HEAD
     <script src="js/script.js"></script>
+=======
+
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
     <!-- Bootstrap 5.0 Javascript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>

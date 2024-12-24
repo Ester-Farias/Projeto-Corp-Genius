@@ -1,14 +1,26 @@
 nav a.nav-link.active {
+<<<<<<< HEAD
   color: rgb(167, 161, 161);
+=======
+  color: rgba(97, 7, 82, 0.3843);
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
 }
 
 nav a.nav-link, nav a.navbar-brand {
   font-weight: 500;
+<<<<<<< HEAD
   color: #FFFFFF;
 }
 
 nav a.nav-link:hover, nav a.navbar-brand:hover {
   color: #8d8c8b;
+=======
+  color: #610752;
+}
+
+nav a.nav-link:hover, nav a.navbar-brand:hover {
+  color: #FF8A00;
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
 }
 
 nav a.nav-link:active, nav a.navbar-brand:active {

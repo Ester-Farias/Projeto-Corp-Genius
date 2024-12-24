@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="">
+=======
+<img src="imgs/gif/.gif">
+>>>>>>> f5d3d5a706015c64e0ad54ec85cee64c0718133a
 <h1 align="center">
 <p>The company that generates ideas<br> 
 A empresa que gera idéias</p>
