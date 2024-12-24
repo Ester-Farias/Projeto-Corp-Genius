@@ -1,0 +1,72 @@
+@import url(../glob.scss);
+#menu-conta .container-foto-perfil {
+  width: 185px;
+  height: 185px;
+  background-color: #FF8A00;
+  background: linear-gradient(180deg, rgba(97, 7, 82, 0.9472163866) 0%, rgba(97, 7, 82, 0) 75%);
+  border-radius: 50%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+#menu-conta .foto-perfil {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+#menu-conta .container-menu-conta {
+  height: 130px;
+  color: #610752;
+  border: #610752 4px solid;
+  background-color:#F7D8F2;
+  border-radius: 10px;
+  width: 95%;
+  position: relative;
+  margin: 10px 0;
+}
+
+#menu-conta .content-menu-conta-line-1, #menu-conta .content-menu-conta-line-2 {
+  height: 2px;
+  background-color: #610752;
+  margin: 0;
+  width: 100%;
+  position: absolute;
+}
+
+#menu-conta .content-menu-conta-line-1 {
+  top: 33%;
+}
+
+#menu-conta .content-menu-conta-line-2 {
+  bottom: 33%;
+}
+
+#menu-conta .col-item {
+  display: flex;
+  align-items: center;
+}
+
+#menu-conta .p-align-center {
+  margin: auto 0;
+}
+
+#menu-conta .icon-button-primario {
+  width: 30px;
+  height: 25px;
+  font-weight: 500;
+  background-color: #610752;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#menu-conta .icon-button-primario .fa-regular,
+#menu-conta .icon-button-primario .fa-solid {
+  color: #FF8A00;
+}
+
+
+/*# sourceMappingURL=menu-conta.css.map */
