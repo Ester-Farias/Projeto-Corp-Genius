@@ -1,4 +1,4 @@
-<img src="imgs/gif/gif.gif">
+<img src="imgs/gif/.gif">
 <h1 align="center">
 <p>The company that generates ideas<br> 
 A empresa que gera idéias</p>
@@ -26,7 +26,7 @@ Este projeto é estenção de ferramentas internas para a empresa Corp Genius, h
 
 ## 📸 More Images
 
-<img src="imgs/accets/MockupReadMe.png">
+<img src="">
 
 <br>
 
