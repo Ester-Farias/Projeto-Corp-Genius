@@ -1,16 +1,19 @@
+p{
+    font-size: 14px;
+}
 .card-meus-chamados{
     border: 0px;
     border-radius: 15px;
     background-color:#FFFF;
     margin: 5px;
-    min-height: 285px;
+    padding: 10px;
+    min-height: 200px;
     color: black;
 }
-.card-meus-chamados h5{
+.card-meus-chamados h6{
+    font-size:17px;
+    font-weight: 900;
     color: black;
-}
-.card-meus-chamados p{
-    font-size: 15px;
 }
 .card-meus-chamados h5{
     font-size: 18px;
@@ -20,11 +23,9 @@
     color:#FFFF;
     border-radius: 15px;
 }
-
-
 @media (max-width: 375px){
 .card-meus-chamados{max-width: 280px;}}
 @media (min-width: 376px){
 .card-meus-chamados{width: 320px;}}
 @media (min-width: 999px){
-    .card-meus-chamados{width: 235px;}}
+    .card-meus-chamados{width: 225px;}}

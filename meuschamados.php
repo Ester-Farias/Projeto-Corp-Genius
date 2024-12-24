@@ -86,7 +86,7 @@
                             }
                         ?>
                             <div class="col-sm-6 card-meus-chamados">
-                                <h5 class="fw-bold mt-1"><?= $chamado_dados[1]?></h5>
+                                <h6 class="fw-bold mt-1"><?= $chamado_dados[1]?></h6>
                                 <span class="badge bg-purple"><?= $chamado_dados[3]?></span>
                                 <span class="badge bg-purple"><?= $chamado_dados[2]?></span>
                                 <p class="lh-1 mt-1 "><?= $chamado_dados[4]?>
