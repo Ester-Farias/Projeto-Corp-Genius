@@ -60,7 +60,7 @@
                     </header>
                     <main>
                         <header class="col-12 col-sm-6">
-                                <h6>Abra um novo chamado aqui</h6>
+                                <h4>Abra um novo chamado aqui</h4>
                                 <p class="hero lh-1">Antes de abrir novos chamados para problemas anteriores, confira se o mesmo já não foi respondido.</p>
                         </header> 
                         <form action="sistem-registra.php" method="post">

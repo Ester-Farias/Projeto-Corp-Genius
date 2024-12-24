@@ -1,3 +1,9 @@
+h4{
+  color: #FFFF;
+}
+p{
+  font-size: 14px;
+}
 .form {
   min-height: 35px;
   width: 100%;

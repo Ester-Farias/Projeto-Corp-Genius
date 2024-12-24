@@ -5,6 +5,7 @@ body{
   background-size: cover;
   text-align: justify;
 }
+
 nav, #dashboard, #menu-conta{
   border: 3px solid #FFFFFF;
   border-radius:15px;
@@ -31,8 +32,8 @@ h5, h6, label {
   height: 35px;
 }
 .button-primario-meus-chamados {
-  background-color: #FFFF;
-  color: black;
+  background-color: black;
+  color: #FFFF;
   font-weight: 500;
   border: none;
   border-radius: 5px;
