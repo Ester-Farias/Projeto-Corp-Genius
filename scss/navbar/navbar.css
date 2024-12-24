@@ -1,0 +1,16 @@
+nav a.nav-link.active {
+  color: rgb(167, 161, 161);
+}
+
+nav a.nav-link, nav a.navbar-brand {
+  font-weight: 500;
+  color: #FFFFFF;
+}
+
+nav a.nav-link:hover, nav a.navbar-brand:hover {
+  color: #8d8c8b;
+}
+
+nav a.nav-link:active, nav a.navbar-brand:active {
+  color: #56524B;
+}

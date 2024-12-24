@@ -1,0 +1,32 @@
+.form {
+  min-height: 35px;
+  width: 100%;
+  background: linear-gradient(180deg, rgba(228, 225, 227, 0.947) 0%, rgba(97, 7, 82, 0) 38%);
+  background-color: rgba(100, 100, 100, 0.384);
+  border: 2px solid #050505;
+  border-radius: 10px;
+  color: black;
+}
+
+label {
+  display: block;
+}
+
+.form::placeholder {
+  color: black;
+}
+
+label.label-radio{
+  color: #FFFF;
+}
+input.form-check-input{
+  cursor: pointer;
+  background-color:  rgba(206, 199, 199, 0.384);
+}
+input.form-check-input:checked{
+  background-color: #555252;
+  border: #000000;
+}
+/*# sourceMappingURL=home.css.map */
+@media (min-width: 788px){
+#dashboard{height: 80vh;}}
